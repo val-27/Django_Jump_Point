@@ -6,3 +6,4 @@ All basics for starting Django proj
 -docker-compose
 -unit test setup
 -alpine postgres for backend
+
