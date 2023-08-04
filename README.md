@@ -7,3 +7,6 @@ All basics for starting Django proj
 -unit test setup
 -alpine postgres for backend
 
+Run any Django command via docker compose to push changes locally and to test container:
+docker compose run --rm app sh -c "python make migrations"
+
